@@ -21,7 +21,7 @@ class Olist:
 
     def ping(self):
         """
-        You call ping I print pong!
+        You call ping I print pong from Bruno!
 
         """
         print('pong')
