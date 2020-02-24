@@ -11,11 +11,6 @@ class Olist:
         """
         # Hint: You will need to find the absolute path of the csv folder in order to call this method from anywhere.
         # Hint 2: look at python __file__ attribute
-        # keving says someting
-        # keving says someting
-        # keving says someting
-
-        # Bruno adds something
 
     def get_matching_table(self):
         """
@@ -26,6 +21,7 @@ class Olist:
 
     def ping(self):
         """
-        You call ping I print pong from Kevin!
+        You call ping I print pong!
+
         """
         print('pong')
